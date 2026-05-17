@@ -37,14 +37,14 @@ Please download the dataset from the following link:
 
 Final structure should look like:
 
-part-2-cnn-computer-vision/
-├── notebook.ipynb
-├── README.md
-├── images/
-│   ├── normal/
-│   ├── scratch/
-│   ├── dent/
-│   └── stain/
+    part-2-cnn-computer-vision/
+    ├── notebook.ipynb
+    ├── README.md
+    ├── images/
+    │   ├── normal/
+    │   ├── scratch/
+    │   ├── dent/
+    │   └── stain/
 
 ---
 
